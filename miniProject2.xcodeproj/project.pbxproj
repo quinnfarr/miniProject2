@@ -14,6 +14,8 @@
 		F567131E24CA095D0014F289 /* miniProject2.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = F567131C24CA095D0014F289 /* miniProject2.xcdatamodeld */; };
 		F567132024CA09610014F289 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F567131F24CA09610014F289 /* Assets.xcassets */; };
 		F567132324CA09610014F289 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F567132124CA09610014F289 /* LaunchScreen.storyboard */; };
+		F567132B24CA0FAA0014F289 /* 2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F567132A24CA0FAA0014F289 /* 2ViewController.swift */; };
+		F567132F24CB23FF0014F289 /* thirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F567132E24CB23FF0014F289 /* thirdViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		F567131F24CA09610014F289 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F567132224CA09610014F289 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F567132424CA09610014F289 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F567132A24CA0FAA0014F289 /* 2ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2ViewController.swift; sourceTree = "<group>"; };
+		F567132E24CB23FF0014F289 /* thirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = thirdViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +70,8 @@
 				F567132124CA09610014F289 /* LaunchScreen.storyboard */,
 				F567132424CA09610014F289 /* Info.plist */,
 				F567131C24CA095D0014F289 /* miniProject2.xcdatamodeld */,
+				F567132A24CA0FAA0014F289 /* 2ViewController.swift */,
+				F567132E24CB23FF0014F289 /* thirdViewController.swift */,
 			);
 			path = miniProject2;
 			sourceTree = "<group>";
@@ -143,8 +149,10 @@
 			files = (
 				F567131824CA095D0014F289 /* ViewController.swift in Sources */,
 				F567131424CA095D0014F289 /* AppDelegate.swift in Sources */,
+				F567132F24CB23FF0014F289 /* thirdViewController.swift in Sources */,
 				F567131624CA095D0014F289 /* SceneDelegate.swift in Sources */,
 				F567131E24CA095D0014F289 /* miniProject2.xcdatamodeld in Sources */,
+				F567132B24CA0FAA0014F289 /* 2ViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
